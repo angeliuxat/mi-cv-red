@@ -1,8 +1,11 @@
-# Angel Josue Aguilar Tepole
-*Estudiante de Ingeniería de Software* | Universidad Veracruzana
+# angeliuxat cv
 
-Estudiante de nivel superior interesado en tecnologías de la información, programación, mantenimiento de equipos y desarrollo de software.
-
-- *Matrícula:* S26004562
-- *Ubicación:* Río Blanco, Veracruz, México
-- *GitHub:* https://github.com/angeliuxat
+- [header](header.html)
+- [menu](menu.html)
+- [work-experience](work-experience.html)
+- [education](education.html)
+- [skills](skills.html)
+- [certificate](certificate.html)
+- [languages](languages.html)
+- [interest](interest.html)
+- [projects](projects.html)
