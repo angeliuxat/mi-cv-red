@@ -1,4 +1,4 @@
-# [Nombre Completo de tu Compañero]
+# Angel Josue Aguilar Tepole
 *Estudiante de Ingeniería de Software* | Universidad Veracruzana
 
 Estudiante de nivel superior interesado en tecnologías de la información, programación, mantenimiento de equipos y desarrollo de software.
